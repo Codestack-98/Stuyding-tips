@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #181a22;
+}
+
+header > img {
+  height: 3rem;
+  width: 3rem;
+}
+
+img {
+  width: 20rem;
+  height: 14rem;
+}
+
+.pt,
+.change,
+.eat,
+.exercise,
+.method {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: whitesmoke;
+}
+
+.method > img {
+  width: 25rem;
+  height: 15rem;
+}
+
+.style {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: whitesmoke;
+  align-content: center;
+}

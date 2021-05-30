@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #24252a;
+}
+
+body > p {
+  font-family: "Ubuntu", sans-serif;
+  color: whitesmoke;
+}
+
+img {
+  height: 4rem;
+  width: 4rem;
+  margin-left: 0;
+}
+
+li,
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  font-size: 16px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
